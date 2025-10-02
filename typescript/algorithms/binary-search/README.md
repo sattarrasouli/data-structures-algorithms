@@ -3,7 +3,11 @@
 This repository contains a simple implementation of the **Binary Search algorithm** in TypeScript.  
 Binary Search is an efficient algorithm for finding an element in a **sorted array**. It works by repeatedly dividing the search interval in half.
 
----
+
+## Time and Space Complexity
+Time Complexity: O(log n)   
+Space Complexity: O(1)  
+Requirement: Array must be sorted (ascending)
 
 ## Algorithm Overview
 
