@@ -1,0 +1,13 @@
+{
+  "printWidth": 100,             // Maximum line length before wrapping
+  "tabWidth": 2,                 // Number of spaces per indentation level
+  "useTabs": false,              // Use spaces instead of tabs
+  "semi": true,                  // Add semicolons at the ends of statements
+  "singleQuote": true,           // Use single quotes instead of double
+  "quoteProps": "as-needed",     // Only quote object properties when necessary
+  "jsxSingleQuote": false,       // Use double quotes in JSX
+  "trailingComma": "all",        // Add trailing commas wherever possible
+  "bracketSpacing": true,        // Spaces between brackets in object literals
+  "arrowParens": "always",       // Always include parentheses around arrow function params
+  "endOfLine": "lf"              // Use line feed only
+}
