@@ -17,6 +17,9 @@ To run the test for this algorithm:
 # Clone the project
 git clone https://github.com/sattarrasouli/data-structures-algorithms.git
 
+# go to directory
+cd data-structures-algorithms
+
 # Install dependencies
 npm install
 

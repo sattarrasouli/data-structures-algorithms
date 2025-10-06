@@ -16,10 +16,10 @@ A collection of **data structures** and **algorithms** implemented in **JavaScri
 # Clone the repository:
 git clone https://github.com/sattarrasouli/data-structures-algorithms.git
 
-# get to the directory
+# Get to the directory
 cd data-structures-algorithms
 
-#Install dependencies:
+# Install dependencies:
 npm install
 
 # Run All algorithm  Jest tests, with:
