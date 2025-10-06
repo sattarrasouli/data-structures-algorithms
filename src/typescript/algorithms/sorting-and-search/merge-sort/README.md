@@ -4,7 +4,26 @@
 
 Merge Sort is a classic divide-and-conquer sorting algorithm with a time complexity of **O(n log n)** in all cases.  
 
-Time Complexity:   
+## 🧪 Test
+
+To run the test for this algorithm:
+
+```bash
+# Clone the project
+git clone https://github.com/sattarrasouli/data-structures-algorithms.git
+
+# go to directory
+cd data-structures-algorithms
+
+# Install dependencies
+npm install
+
+# Run the test for this specific algorithm
+npx jest mergeSort.test.ts
+
+```
+
+## Time Complexity:   
 - Best: O(n log n)  
 - Average: O(n log n)   
 - Worst: O(n log n)  

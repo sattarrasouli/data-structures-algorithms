@@ -12,6 +12,26 @@ The Fibonacci sequence is defined as:
 
 Instead of using recursion (which has exponential time complexity), we use an **iterative bottom-up approach** to compute Fibonacci numbers efficiently.
 
+
+## 🧪 Test
+
+To run the test for this algorithm:
+
+```bash
+# Clone the project
+git clone https://github.com/sattarrasouli/data-structures-algorithms.git
+
+# go to directory
+cd data-structures-algorithms
+
+# Install dependencies
+npm install
+
+# Run the test for this specific algorithm
+npx jest fibonacci.test.ts
+
+```
+
 ## Time Complexity:
 
 O(n) → We compute each Fibonacci number once in a loop from 2 to n.

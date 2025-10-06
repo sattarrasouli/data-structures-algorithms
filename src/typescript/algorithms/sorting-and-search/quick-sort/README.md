@@ -11,6 +11,26 @@ In-place: This implementation is not in-place, as it creates new arrays.
 
 ---
 
+
+## 🧪 Test
+
+To run the test for this algorithm:
+
+```bash
+# Clone the project
+git clone https://github.com/sattarrasouli/data-structures-algorithms.git
+
+# go to directory
+cd data-structures-algorithms
+
+# Install dependencies
+npm install
+
+# Run the test for this specific algorithm
+npx jest quickSort.test.ts
+
+```
+
 ## Algorithm Overview
 
 1. **Choose a pivot** element (commonly the last element).  

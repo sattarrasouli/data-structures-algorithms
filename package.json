@@ -1,0 +1,28 @@
+{
+    "name": "DSA-TS-JS",
+    "version": "1.0.0",
+    "description": "Data Structures and Algorithms in TypeScript with tests",
+    "scripts": {
+      "test": "jest",
+      "test:watch": "jest --watch",
+      "test:algo": "jest src/fibonacci.test.ts" 
+    },
+    "keywords": [
+      "dsa",
+      "algorithms",
+      "typescript",
+      "jest",
+      "dynamic-programming",
+      "data-structures",
+      "javascript"
+    ],
+    "author": "sattar rasouli",
+    "license": "MIT",
+    "devDependencies": {
+      "@types/jest": "^29.5.12",
+      "jest": "^29.7.0",
+      "ts-jest": "^29.2.5",
+      "typescript": "^5.6.3"
+    }
+  }
+  

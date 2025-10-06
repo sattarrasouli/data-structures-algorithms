@@ -9,6 +9,23 @@ Time Complexity: O(log n)
 Space Complexity: O(1)  
 Requirement: Array must be sorted (ascending)
 
+## 🧪 Test
+
+To run the test for this algorithm:
+
+```bash
+# Clone the project
+git clone https://github.com/sattarrasouli/data-structures-algorithms.git
+
+# Install dependencies
+npm install
+
+# Run the test for this specific algorithm
+npx jest binarySearch.test.ts
+
+```
+
+
 ## Algorithm Overview
 
 1. Start with two pointers: `left` at the start of the array, `right` at the end.  

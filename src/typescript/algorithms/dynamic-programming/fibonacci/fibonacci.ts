@@ -1,4 +1,4 @@
-function fibonacci(n: number): number {
+export function fibonacci(n: number): number {
     if (n <= 1) return n; // Base cases
   
     let prev2 = 0; // Fib(0)
@@ -11,7 +11,8 @@ function fibonacci(n: number): number {
     }
     return prev1;
   }
-  
-  // Example
-  console.log(fibonacci(10)); // 55
+
+
+  // // Example
+  // console.log(fibonacci(10)); // 55
   

@@ -1,4 +1,4 @@
-function bubbleSort(arr: number[]): number[] {
+export function bubbleSort(arr: number[]): number[] {
     let n = arr.length;
     let swapped: boolean;
     
@@ -16,5 +16,6 @@ function bubbleSort(arr: number[]): number[] {
     return arr;
   }
   
-
-console.log(bubbleSort([1,244,3,24,]))
+  
+// // Example usage
+// console.log(bubbleSort([1,244,3,24,]))
